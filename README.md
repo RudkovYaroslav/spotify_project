@@ -1,2 +1,14 @@
-# spotify_project
-Personal project, which focuses on analyzing the data of popular streaming service to find interesting information, using more advanced methods of pandas library
+## Проект анализ стриминговых сервисов
+__________________________
+Проанализировал несколько стриминговых сервисов для нахождения интересных зависимостей. Провел исследовательский анализ, разработал алгоритм, по которому смог сегментировать треки по исполнителям(П. 3.2). В выводе предоставил информацию о тренде рынка сервисов, а также основную информацию о популярности треков.
+__________________________
+## Используемые инструменты:
+- Python,
+- Pandas,
+- NumPy,
+- Matplotlib,
+- Seaborn,
+- Предобработка данных,
+- Исследовательский анализ данных
+
+[**Ссылка на проект в nbviewer**](https://nbviewer.org/github/RudkovYaroslav/spotify_project/blob/main/Spotify.ipynb)
